@@ -1,0 +1,2 @@
+// eslint-disable-next-line import/prefer-default-export
+export const API_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MjYxOWFkNDBjZGQ3ZDNmZDUyZjg2NGQiLCJpYXQiOjE2NTA1NjQwMjcsImV4cCI6MTY4MjEwMDAyN30.Fwr6_EJhYo2UGMwnR7RkYcFhli7heSN8ZouzsmMs6A8'
